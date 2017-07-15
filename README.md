@@ -2,8 +2,13 @@
 Capstone-Project
 Lifeguard App
 
-- Monitor place on list
--- notify user when withing 5 people of being hired
+* Screens
+** Today
+** Tomorrow
+** Calendar
+
+* Monitor place on list
+** notify user when withing 5 people of being hired
 -- notify user when assigned a shift
 + Review prvious shifts worked or assigned - Calendar View
 - Make available
