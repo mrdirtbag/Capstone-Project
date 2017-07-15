@@ -3,7 +3,7 @@ Capstone-Project
 Lifeguard App
 
 * Screens
- * Today
+    * Today
  * Tomorrow
  * Calendar
 
