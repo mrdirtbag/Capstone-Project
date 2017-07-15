@@ -3,9 +3,9 @@ Capstone-Project
 Lifeguard App
 
 * Screens
-** Today
-** Tomorrow
-** Calendar
+ * Today
+ * Tomorrow
+ * Calendar
 
 * Monitor place on list
 ** notify user when withing 5 people of being hired
