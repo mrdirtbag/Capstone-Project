@@ -3,22 +3,22 @@ Capstone-Project
 Lifeguard App
 
 * Screens
-    * Today
+  * Today
   * Tomorrow
   * Calendar
 
 * Monitor place on list
-** notify user when withing 5 people of being hired
--- notify user when assigned a shift
-+ Review prvious shifts worked or assigned - Calendar View
+  - notify user when withing 5 people of being hired
+  - notify user when assigned a shift
+* Review prvious shifts worked or assigned - Calendar View
 - Make available
--- Notification when made available
+  - Notification when made available
 - Make unavailable
 
 - Google Play Services
--- Gcm scheduler
--- Itentity - show current user icon
--- Analytics - to get usage stats
+  - Gcm scheduler
+  - Itentity - show current user icon
+  - Analytics - to get usage stats
 
 - auto aupdate widget provider
 
