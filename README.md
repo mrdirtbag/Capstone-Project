@@ -8,10 +8,10 @@ Lifeguard App
   * Calendar
 
 * Monitor place on list
-  - notify user when withing 5 people of being hired
+  - notify user when within 5 people of being hired
   - notify user when assigned a shift
-* Review prvious shifts worked or assigned - Calendar View
-- Make available
+* Review previous shifts worked or assigned - Calendar View
+* Make available
   - Notification when made available
 - Make unavailable
 
@@ -20,7 +20,7 @@ Lifeguard App
   - Itentity - show current user icon
   - Analytics - to get usage stats
 
-- auto aupdate widget provider
+- auto update widget provider
 
 - reload calendar data when user is hired.
 
