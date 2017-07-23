@@ -2,19 +2,19 @@
 Capstone-Project
 Lifeguard App
 
--[x] Screens
-  -[x] Today
-  -[x] Tomorrow
-  -[x] Calendar
+- [x] Screens
+  - [x] Today
+  - [x] Tomorrow
+  - [x] Calendar
 
--[ ] Monitor place on list
-  -[ ] notify user when within 5 people of being hired
-  -[ ] notify user when assigned a shift
--[ ] Review previous shifts worked or assigned - Calendar View
+- [ ] Monitor place on list
+  - [ ] notify user when within 5 people of being hired
+  - [ ] notify user when assigned a shift
+- [ ] Review previous shifts worked or assigned - Calendar View
 
--[ ] Make available
-  -[ ] Notification when made available
--[ ] Make unavailable
+- [ ] Make available
+  - [ ] Notification when made available
+- [ ] Make unavailable
 
 - Google Play Services
   - Gcm scheduler
