@@ -5,6 +5,8 @@
   - [x] Today
   - [x] Tomorrow
   - [x] Calendar
+  - [ ] Settings Screen
+    - [ ] cleanup order and format of settings screen
 
 - [ ] Monitor place on list
   - [ ] notify user when within 5 people of being hired
