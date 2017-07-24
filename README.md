@@ -18,6 +18,7 @@
 
 - [x] Google Play Services
   - [x] Firebase Job Scheduler
+    - [x] turn on and off scheduler from settings screen
   - [ ] Itentity - show current user icon
   - [ ] Analytics - to get usage stats
 
