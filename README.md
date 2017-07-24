@@ -1,6 +1,5 @@
-#
-Capstone-Project
-Lifeguard App
+# Capstone-Project
+## Lifeguard App
 
 - [x] Screens
   - [x] Today
@@ -16,13 +15,13 @@ Lifeguard App
   - [ ] Notification when made available
 - [ ] Make unavailable
 
-- Google Play Services
-  - Gcm scheduler
-  - Itentity - show current user icon
-  - Analytics - to get usage stats
+- [x] Google Play Services
+  - [x] Gcm scheduler
+  - [ ] Itentity - show current user icon
+  - [ ] Analytics - to get usage stats
 
-- auto update widget provider
+- [ ] auto update widget provider
 
-- reload calendar data when user is hired.
+- [ ] reload calendar data when user is hired.
 
 
