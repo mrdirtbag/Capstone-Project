@@ -9,19 +9,18 @@
 - [ ] Monitor place on list
   - [ ] notify user when within 5 people of being hired
   - [ ] notify user when assigned a shift
-- [ ] Review previous shifts worked or assigned - Calendar View
+- [x] Review previous shifts worked or assigned - Calendar View
 
-- [ ] Make available
+- [x] Make available
   - [ ] Notification when made available
 - [ ] Make unavailable
+  - [ ] Notification when made unavailable
 
 - [x] Google Play Services
-  - [x] Gcm scheduler
+  - [x] Firebase Job Scheduler
   - [ ] Itentity - show current user icon
   - [ ] Analytics - to get usage stats
 
-- [ ] auto update widget provider
+- [ ] Auto update widget provider
 
-- [ ] reload calendar data when user is hired.
-
-
+- [ ] Reload calendar data when user is hired.
