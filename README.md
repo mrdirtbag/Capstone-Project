@@ -14,9 +14,9 @@
 - [x] Review previous shifts worked or assigned - Calendar View
 
 - [x] Make available
-  - [ ] Notification when made available
-- [ ] Make unavailable
-  - [ ] Notification when made unavailable
+  - [x] Notification when made available
+- [x] Make unavailable
+  - [x] Notification when made unavailable
 
 - [x] Google Play Services
   - [x] Firebase Job Scheduler
