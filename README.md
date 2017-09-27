@@ -8,9 +8,9 @@
   - [ ] Settings Screen
     - [ ] cleanup order and format of settings screen
 
-- [ ] Monitor place on list
-  - [ ] notify user when within 5 people of being hired
-  - [ ] notify user when assigned a shift
+- [x] Monitor place on list
+  - [x] notify user when within 5 people of being hired
+  - [x] notify user when assigned a shift
 - [x] Review previous shifts worked or assigned - Calendar View
 
 - [x] Make available
