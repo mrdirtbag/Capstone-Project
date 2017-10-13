@@ -5,6 +5,8 @@
   - [x] Today
   - [x] Tomorrow
   - [x] Calendar
+    - [ ] Reload calendar data when user is hired.
+
   - [ ] Settings Screen
     - [x] cleanup order and format of settings screen
     - [ ] check each notification reacts to settings filters
@@ -29,9 +31,11 @@
     - [x] turn on and off scheduler from settings screen
   - [x] Itentity - show current user icon
     - [ ] invalidate picklist data after icon is activated 
-  - [ ] Analytics - to get usage stats
+  - [x] Analytics - to get usage stats
 
 - [ ] Auto update widget provider
 
-- [ ] Reload calendar data when user is hired.
+- [ ] material design
+  - [ ] transition to Make Available and back
+  - [ ] transition to Settings and back
 
