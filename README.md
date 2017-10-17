@@ -19,6 +19,7 @@
 - [x] Make available
   - [x] Notification when made available
   - [x] Reload calendar data when made available
+  - [x] set date buttons to today in onCreate 
   - [ ] Reload picklist data if affected 
 
 - [x] Make unavailable
