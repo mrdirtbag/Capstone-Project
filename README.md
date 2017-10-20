@@ -40,3 +40,4 @@
   - [ ] transition to Make Available and back
   - [ ] transition to Settings and back
 
+- [x] add TestFairy user tracking
