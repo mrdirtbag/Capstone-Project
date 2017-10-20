@@ -20,12 +20,12 @@
   - [x] Notification when made available
   - [x] Reload calendar data when made available
   - [x] set date buttons to today in onCreate 
-  - [ ] Reload picklist data if affected 
+  - [x] Reload picklist data if affected 
 
 - [x] Make unavailable
   - [x] Notification when made unavailable
   - [x] Reload calendar data when made unavailable
-  - [ ] Reload picklist data if affected
+  - [x] Reload picklist data if affected
 
 - [x] Google Play Services
   - [x] Firebase Job Scheduler
