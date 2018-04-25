@@ -39,5 +39,6 @@
 - [ ] material design
   - [ ] transition to Make Available and back
   - [ ] transition to Settings and back
-
+- [x] rebuild both ListViews as RecyclerViews
+- [ ] Change AppCompat Activities to modern Activities.
 - [x] add TestFairy user tracking
