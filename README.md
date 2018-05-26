@@ -7,11 +7,11 @@
 # Capstone-Project
 ## Screenshots
 
-![image1][Today screenshot]
+![Today screenshot][image1]
 
-![image2][Calendar Screenshot]
+![Calendar Screenshot][image2]
 
-![image3][Make Available Screenshot]
+![Make Available Screenshot][image3]
 
 
 ## Lifeguard App
