@@ -1,4 +1,17 @@
+[//]: # (Image References)
+
+[image1]: ./images/LifeguardApp_today.png "Today screenshot"
+[image2]: ./images/LifeguardApp_calendar.png "Calendar screenshot"
+[image3]: ./images/LifeguardApp_makeavailable.png "Make Available screenshot"
+
 # Capstone-Project
+## Screenshots
+
+![image1][Today Screenshot]
+![image2][Calendar Screenshot]
+![image3][Make Available Screenshot]
+
+
 ## Lifeguard App
 
 - [x] Screens
