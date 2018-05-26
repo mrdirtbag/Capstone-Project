@@ -7,8 +7,10 @@
 # Capstone-Project
 ## Screenshots
 
-![image1][Today Screenshot]
+![image1][Today screenshot]
+
 ![image2][Calendar Screenshot]
+
 ![image3][Make Available Screenshot]
 
 
