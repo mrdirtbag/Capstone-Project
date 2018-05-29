@@ -55,3 +55,7 @@ Today | Calendar | Make Available
 - [x] rebuild both ListViews as RecyclerViews
 - [ ] Change AppCompat Activities to modern Activities.
 - [x] add TestFairy user tracking
+
+- [ ] bugs
+  - [ ] Order of lifeguards in picklist is wrong when someone chooses 'Accept' version of being available.  They end up on the top of the android list.
+  - [ ] picklist on the phone ends up blank sometimes.  I believe, but have not verified this to be caused by the website failure to return a picklist and the app not checking the returned page carefully.
